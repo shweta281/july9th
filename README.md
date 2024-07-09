@@ -1,9 +1,12 @@
-# july9th: 
-technology stack:
-<h1>Interface</h1> : HTML5, CSS3
-<h1>Calculations</h1> : Python, Django
+# july9th:
+<h1>technology stack:</h1>
+
+
+<h1><Interface : HTML5, CSS3/h1>
 
 <img width="960" alt="Screenshot_28" src="https://github.com/shweta281/july9th/assets/132832323/a7b4450c-16ef-4078-b3a2-1c49b8d05e41">
+
+<h1>Calculation: Python, Django</h1>
 
 <img width="960" alt="Screenshot_29" src="https://github.com/shweta281/july9th/assets/132832323/83451bd3-3620-4c33-97de-c7e7ad6832d0">
 
