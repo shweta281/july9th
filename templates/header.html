@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>
+            DjangoPractice
+        </title>
+        <link rel="stylesheet" href='/static/main.css'>
+        <link rel="stylesheet" href='/static/footer.css'>
+        <link rel="stylesheet" href='/static/header.css'>
+    </head>
+    <body>
+        <div class="header">
+            <div class="sides">
+            <a href="#" class="logo">More Apps</a>
+            </div>
+            <div class="sides"> <a href="#" class="menu"></a></div>
+            <div class="info">
+            <h4><a href="#">USING DJANGO</a></h4>
+            <h1>CALCULATOR</h1>
+                <form method="post" class="form_main">
+                    {% csrf_token %}
+                    <p class="heading">Enter</p>
+                    <div class="inputContainer">
+                    <input type="text" class="inputField" value="{{exp}}" 
+                    id="username" name='inputexpression' >
+                    </div>
+                    
+                <div class="inputContainer">
+                </div>
+                              
+                {% if request.path == '/' %}
+                {{ans}}
+                {% endif %}    
+                <button id="b">Submit</button>
+                </form>
+                
+            </div>
+            </div>
