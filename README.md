@@ -1,5 +1,5 @@
 # july9th:
-<h1><Interface : HTML5, CSS3</h1>
+<h1>Interface : HTML5, CSS3</h1>
 
 <img width="960" alt="Screenshot_28" src="https://github.com/shweta281/july9th/assets/132832323/a7b4450c-16ef-4078-b3a2-1c49b8d05e41">
 
