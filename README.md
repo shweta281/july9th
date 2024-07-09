@@ -1,7 +1,7 @@
 # july9th: 
 technology stack:
-Interface : HTML5, CSS3
-Calculations : Python, Django
+<h1>Interface</h1> : HTML5, CSS3
+<h1>Calculations</h1> : Python, Django
 
 <img width="960" alt="Screenshot_28" src="https://github.com/shweta281/july9th/assets/132832323/a7b4450c-16ef-4078-b3a2-1c49b8d05e41">
 
